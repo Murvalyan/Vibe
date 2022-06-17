@@ -1,0 +1,17 @@
+@font-face {
+    font-family: 'TenorSans';
+    src: local('TenorSans'),
+        url('./TenorSans.woff2') format('woff2'),
+        url('./TenorSans.woff') format('woff');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'TT Norms';
+    src: local('TT Norms Bold'), local('TT-Norms-Bold'),
+        url('TTNorms-Bold.woff2') format('woff2'),
+        url('TTNorms-Bold.woff') format('woff');
+    font-weight: 700;
+    font-style: normal;
+}
